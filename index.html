@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hariom_Choudhary_Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.png">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="max-width">
+            <div class="logo">
+                <div >
+                    <a href="#">
+                        <img style="height:60px; width:60px;border-radius: 50%;" src="./images/Hariom.png" alt="">
+                    </a>
+                </div>
+
+            </div>
+            <ul class="hari1">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#project">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li onclick="drive()"><a href="./download/Hariom_Choudhary_Resume.pdf"  target="_blank" download class="top-btn">Resume</a></li>
+            </ul>           
+            <div class="hari1-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">Hello, my name is</div>
+                <div class="text-2">Hariom Choudhary</div>
+                <div class="text-3">And I'm a <span>Java Developer</span></div>
+                <a href="#contact">Hire me</a>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="about" id="about">
+        <div class="max-width">
+            <h2 class="title">About me</h2>
+            <div class="about-content">
+                <div class="column left">
+                    <img style="width:80%;height:auto" src="images/Hariom_pic.jpg" alt="">
+                </div>
+                <div class="column right">
+                    <div class="text">I'm Hariom Choudhary and I'm a <span>Java Back-End Developer</span></div>
+                    <p>An ambitious developer with strong command in Java,
+                        JavaScript, HTML,CSS, SQL database, Web API, etc.
+                        Constant learner and ability to adapt to new technologies
+                        and can work in a challenging atmosphere.
+                        12000+ hours of Practical Coding.
+                        
+                    </p>
+                    <a href="./download/Hariom_Choudhary_Resume.pdf"
+                        target="_blank">Download CV</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="skills" id="skills">
+        <div class="max-width">
+            <h2 class="title">My Skills and Tools</h2>
+            <div class="skills-content">
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="data:image/png;base64,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" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="data:image/png;base64,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"
+                            alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://gopalkrushnas063.github.io/images/skills/intellij.png" alt="">
+                    </div>
+                </div>
+              
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://gauravportfolio0083.netlify.app/images/java.svg" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="data:image/png;base64,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" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://gauravportfolio0083.netlify.app/images/mysql.svg" alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640"
+                            alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png"
+                            alt="">
+                    </div>
+                </div>
+                <div class="hari2">
+                    <div class="box">
+                        <img src="https://gauravportfolio0083.netlify.app/images/spring.svg" alt="">
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </section>
+  
+    <section class="project" id="project">
+        <div class="max-width">
+            <h2 class="title">My Projects</h2>
+            <div class="project-content">
+                <div class="projects">
+                    <div class="image">
+                        <img src="https://camo.githubusercontent.com/87463399c2fd0af109ad91455fdb1db4ca7601449d9e4e891302af4a5bd3b08b/68747470733a2f2f7777772e6e65746d6564732e636f6d2f696d616765732f636d732f6f66666572732f313632373936323039365f4c616e64696e675f62616e6e65726466676466682e6a7067" alt="">
+                    </div>
+                    <div class="content">
+                        <h2>Netmeds-Clone</h2>
+                        Netmeds.com is one of India's most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers - PAN India.
+                        <p style="margin-top:20px ;">Techstacks : HTML,CSS,JAVASCRIPT</p>
+
+                        <a href="https://github.com/PoojaBijwal/Netmeds.com-Clone" target="_blank">Git Repo </a>
+                        <a href="https://heartfelt-profiterole-6effcb.netlify.app" target="_blank">Live Site </a>
+                    </div>
+                </div>
+                <div class="projects">
+                    <div class="image">
+                        <img src="https://cdna.lystit.com/cms/ENG_header_XL_9f9e2af236_615828663f.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h2>Lyst-Clone</h2>
+                        Lyst operates an inventory free platform, and uses a proprietary data engine to provide each customer with a highly personalized shopping experience.
+                        <p style="margin-top:20px ;">Techstacks : HTML,CSS,JAVASCRIPT</p>
+
+                        <a href="https://github.com/hariom722581343/Lyst" target="_blank">Git Repo </a>
+                        <a href="https://delicate-bonbon-e0b683.netlify.app/" target="_blank">Live Site </a>
+                    </div>
+                </div>
+                <div class="projects">
+                    <div class="image">
+                        <img src="https://files.myglamm.com/site-images/original/VD2240x614.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h2>MyGlamm-Clone</h2>
+                        <p></p>Buy international beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store. Shop Manish Malhotra beauty products & more for lips .
+                        <p style="margin-top:20px ;">Techstacks :HTML,CSS,JAVASCRIPT </p>
+
+                        <a href="https://github.com/hariom722581343/MyGlamm" target="_blank">Git Repo</a>
+                        <a href="https://fantastic-piroshki-8229c8.netlify.app/" target="_blank">Live Site </a>
+                    </div>
+                </div>
+                <div class="projects">
+                    <div class="image">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKrQofU6NmuEb7cdjeIKyu7fWbv2JqYbRyA&usqp=CAU" alt="">
+                    </div>
+                    <div class="content">
+                        <h2>Youtube-Clone</h2>
+                         Youtube Clone Script is a powerful  On Demand Platform Script Video Streaming App.
+                        <p style="margin-top:20px ;">Techstacks : HTML,CSS,JAVASCRIPT</p>
+
+                        <a href="https://github.com/masai-course/hariom_choudhary_fp06_365/tree/4c7763e5ddd751a0382df951375d130610ab945a/unit-3/sprint-3/optional" target="_blank">Git Repo </a>
+                        <a href="https://voluble-mooncake-6e93e4.netlify.app/" target="_blank">Live Site </a>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <div class="title reveal" style="width: 90%; margin: auto;">
+        <a target="_blank" rel="noreferrer" id="cicin" href="https://github.com/hariom722581343">
+            <p style="text-align: center; font-size: 200%; padding: 3%;">My Github contributions-</p>
+            <img width="100%" style="margin-bottom:20px;display: flex; padding: auto;" id="github-contributions"
+                src="4fed581c04c235203325917947153b38cb616e88d92542fb5575ba7f99d6826c" href="4fed581c04c235203325917947153b38cb616e88d92542fb5575ba7f99d6826c"
+                alt="hariom722581343's Github chart" />
+        </a>
+    </div>
+    <div class="statsBox">
+        <h3>GitHub Stats</h3>
+        <div>
+            <div class="statsContainer">
+                <div>
+                    <a href="https://github.com/hariom722581343" target="_blank">
+                        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hariom722581343" />
+                    </a>
+                </div>
+            </div>
+
+            <div class="stats-3">
+                <p align="center">
+                    <a href="https://github.com/hariom722581343" target="_blank">
+                        <img align="center"
+                            src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom722581343&bg_color=0D1117"
+                            alt="" />
+                    </a>
+                </p>
+            </div>
+
+            <div class="stats-2">
+                <p align="center">
+                    <a href="https://github.com/hariom722581343/github-readme-stats" target="_blank">
+                        <img alt="hariom722581343 Github Stats"
+                            src="https://github-readme-stats.vercel.app/api?username=hariom722581343&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+                    </a>
+                </p>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="graph-1">
+        <p align="center">
+            <a href="https://github.com/hariom722581343" target="_blank"><span>
+                    <img align="center"
+                        src="https://github-profile-summary-hari2s.vercel.app/api/hari2s/profile-details?username=hariom722581343&theme=dracula&bg_color=0D1117" />
+                </span></a>
+        </p>
+    </div>
+    <div class="graph">
+        <a href="https://github.com/hariom722581343/github-readme-activity-graph" target="_blank">
+        </a>
+    </div>
+    <section class="contact" id="contact">
+        <h2 class="title">Contact me</h2>
+            <i class="fas fa-phone-alt" style="border: 0px solid  pink;display:flex; justify-content:center;gap: 5px;margin-bottom: 19px;"> <span> Phone : +91 7225813432</span></i>
+            <i class="fas fa-envelope"  style="border: 0px solid  pink;display:flex; justify-content:center; gap: 5px;margin-bottom: 19px;"> <span> Email :hariom722581343@gmail.com</span></i>
+            <i class="fas fa-address-hari2"  style="border: 0px solid  pink;display:flex; justify-content:center;gap: 10px;margin-bottom: 19px;"> <span> Address : Ujjain, Madhya Pradesh</span> </i>
+        </div>
+        <div class="newcont" style="width: 250px; margin-bottom: 45px;">
+            <div  ><a href="https://www.linkedin.com/in/hariom-choudhary-66a442249/" target="_blank" >
+                    <i class="fab fa-linkedin  fa-1x"  style="width: 90%;"></i></a></div>
+            <div><a href="https://github.com/hariom722581343" target="_blank">
+                    <i class="fab fa-github" ></i></a></div>
+            <div  ><a href="mailto:hariom722581343@gmail.com"  target="_blank">
+                    <i class="fas fa-envelope fa-sm"  ></i></a></div>
+        </div>
+    </section>
+	
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+
+</html>
+<script src="index.js"></script>
