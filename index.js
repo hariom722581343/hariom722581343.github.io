@@ -8,9 +8,9 @@ $(document).ready(function(){
  });
 
 
- $('.menu-btn').click(function(){
-     $('.navbar .menu').toggleClass("active");
-     $('.menu-btn i').toggleClass("active");
+ $('.hari1-btn').click(function(){
+     $('.navbar .hari1').toggleClass("active");
+     $('.hari1-btn i').toggleClass("active");
  })
 })
 
