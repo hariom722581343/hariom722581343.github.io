@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JAVA at masai school**
 
-- 👨‍💻 All of my projects are available at https://hariom722581343.github.io/
+- 👨‍💻 All of my projects are available at <a>https://hariom722581343.github.io/</a>
 
 
 - 💬 Ask me about **JAVA , SQL ,Spring ,Hibernate**
