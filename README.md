@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JAVA , SQL ,Spring ,Hibernate**
 
-- 📫 How to reach me <a href=mailto:hariom722581343@gmail.com>**hariom722581343@gmail.com**</a>
+- 📫 How to reach me <a href="mailto:hariom722581343@gmail.com">**hariom722581343@gmail.com**</a>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bdpue047viSTaArmu0TdpTDTGIAbvEDI/view?usp=share_link)
 
