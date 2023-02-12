@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hariom722581343/contribution"><img alt="Hariom Choudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hariom722581343&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hariom722581343/contribution"><img alt="Hariom Choudhary's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hariom722581343&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
