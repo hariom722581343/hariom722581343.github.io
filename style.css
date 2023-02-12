@@ -673,7 +673,7 @@ section .title{
         left:0;
 
     }
-    .hari1-btn .i .active:before{
+    .hari1-btn .i .active::before{
         content: "\f00d";
     }
 
