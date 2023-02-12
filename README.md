@@ -31,19 +31,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hariom722581343/github-readme-activity-graph"><img alt="Hariom Choudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hariom722581343&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hariom722581343/contribution"><img alt="Hariom Choudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hariom722581343&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-<iframe 
-  src="https://github.com/<hariom722581343>/contributions" 
-  frameborder="0" 
-  scrolling="no" 
-  width="500" 
-  height="200">
-</iframe>
-
 
 ## Connect with me:
 <p align="left">
