@@ -18,3 +18,10 @@ function drive() {
     window.open("https://drive.google.com/file/d/1Bdpue047viSTaArmu0TdpTDTGIAbvEDI/view?usp=share_link", "_blank");
 }
   
+  let docTitle=document.title;
+  window.addEventListener("blur",()=>{
+    document.title=" Come Back :(";
+  })
+  window.addEventListener("focus",()=>{
+    document.title=docTitle;
+  })
