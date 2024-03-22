@@ -15,7 +15,7 @@ $(document).ready(function(){
 })
 
 function drive() {
-    window.open("https://drive.google.com/file/d/1IZI1PGs2L15QFvjXsxEI7imYL-lyCt43/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1Ju85_3rSFq7Mj7Arw4-2QoC5d7YhW0aP/view?usp=sharing", "_blank");
 }
   
   let docTitle=document.title;
