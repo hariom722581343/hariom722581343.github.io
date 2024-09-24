@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://hariom722581343.github.io/" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvkUD3r3zwy_Oaj-w9wq_xn7CiUznwS5ZE8kd6whtgKw&s" alt="portfolio" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/hariom-choudhary-66a442249/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_realhari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/engineer_hariom/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://wa.me/+917225813432" target="_blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-41601136190yenci08e6p.png" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
