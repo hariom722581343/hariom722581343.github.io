@@ -2,9 +2,8 @@
 <h3 align="center">Java Backend Developer</h3>
 <p align="left">I am an aspiring full stack developer specializing in 💻 JAVA. I am keenly interested in problem-solving and creating user-centric products. I am self-motivated and curious, looking forward to honing my skills in a challenging work environment.</p>
 
-<div align="center">
-    <img src="https://hariom722581343.github.io/images/Hariom_pic.jpg" alt="Hariom Choudhary" width="350" style="border-radius: 20%;" /
-</div>
+<img src="https://hariom722581343.github.io/images/Hariom_pic.jpg" alt="Hariom Choudhary" width="350" style="border-radius: 20%;">
+
 
 - 🌱 I’m currently learning **JAVA at Masai School**.
 - 👨‍💻 All of my projects are available at <a href="https://hariom722581343.github.io/">my portfolio</a>.
