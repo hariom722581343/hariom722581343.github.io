@@ -3,8 +3,7 @@
 <p align="left">I am an aspiring full stack developer specializing in 💻 JAVA. I am keenly interested in problem-solving and creating user-centric products. I am self-motivated and curious, looking forward to honing my skills in a challenging work environment.</p>
 
 <div align="center">
-    <img src="https://hariom722581343.github.io/images/Hariom_pic.jpg" alt="Hariom Choudhary" width="150" style="border-radius: 50%;" />
-    <img src="https://media.istockphoto.com/id/1394199344/photo/document-management-system-or-dms-automation-software-to-archiving-and-efficiently-manage-and.jpg?s=612x612&w=0&k=20&c=YaQU7BoPNvaxANtTdRMGhpaePXt7q5UlOYRjKiGqR8I" alt="Document Management System" width="300" />
+    <img src="https://hariom722581343.github.io/images/Hariom_pic.jpg" alt="Hariom Choudhary" width="350" style="border-radius: 20%;" /
 </div>
 
 - 🌱 I’m currently learning **JAVA at Masai School**.
