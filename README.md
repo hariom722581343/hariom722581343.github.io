@@ -2,6 +2,8 @@
 <h3 align="center">Java Backend Developer</h3>
 <p align="left">I am an aspiring full stack developer specializing in 💻 JAVA. I am keenly interested in problem-solving and creating user-centric products. I am self-motivated and curious, looking forward to honing my skills in a challenging work environment.</p>
 
+![Hariom's Picture](https://hariom722581343.github.io/images/Hariom_pic.jpg)
+
 - 🌱 I’m currently learning **JAVA at Masai School**.
 - 👨‍💻 All of my projects are available at <a href="https://hariom722581343.github.io/">my portfolio</a>.
 - 💬 Ask me about **JAVA, SQL, Spring, Hibernate**.
